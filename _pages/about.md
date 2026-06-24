@@ -16,7 +16,7 @@ You have just read a [garden-path sentence](https://en.wikipedia.org/wiki/Garden
 
 I am currently an MSc Cognitive Neuroscience student at [Radboud University](https://www.ru.nl/en) in Nijmegen. Before that, I completed an MSc in Psycholinguistics at the [University of Edinburgh](https://www.ed.ac.uk/), where I developed my interest in <span style="color: var(--global-theme-color);"><strong>eye movements in reading</strong></span> and <span style="color: var(--global-theme-color);"><strong>sentence comprehension</strong></span>.
 
-Broadly, my research interests center on <span style="color: var(--global-theme-color);"><strong>ambiguity resolution</strong></span>: what strategies help people recover from uncertainty. More recently, I have also become increasingly interested in multimodal communication and cognitive neuroscience methods, including EEG, MEG, MRI, and transcranial ultrasound stimulation.
+Broadly, my research interests center on <span style="color: var(--global-theme-color);"><strong>ambiguity resolution</strong></span>: basically, what strategies help people recover from uncertainty. More recently, I have also become increasingly interested in cognitive neuroscience methods, including EEG, MEG, MRI, and transcranial ultrasound stimulation.
 
 
 
