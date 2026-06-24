@@ -8,6 +8,7 @@ profile:
   image: huandi_pic.jpg
   image_circular: false # crops the image to make it circular
 
+social: true
 ---
 
 *The visitor guided through these pages is warmly welcomed.*
