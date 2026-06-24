@@ -13,7 +13,7 @@ social: true
 
 *The visitor guided through my personal website is warmly welcomed.*
 
-You have just read a [garden-path sentence](https://en.wikipedia.org/wiki/Garden-path_sentence). At first, this sentence may invite you to read *guided* as the main verb (*The visitor guided through ...*). Only later, when you reach *is warmly welcomed*, does it become clear that *guided through ...* describes the visitor (*The visitor [who is] guided through my personal website is warmly welcomed.*). In other words, I am rather good at using complicated ways to express simple meanings :). 
+You have just read a [garden-path sentence](https://en.wikipedia.org/wiki/Garden-path_sentence). At first, this sentence may invite you to read *guided* as the main verb. Only later, when you reach *is warmly welcomed*, does it become clear that *guided through ...* describes the visitor (*The visitor [who is] guided through my personal website is warmly welcomed.*). In other words, I am rather good at using complicated ways to express simple meanings :). 
 
 **(In short,) Welcome!**
 
