@@ -12,7 +12,7 @@ profile:
 
 *The visitor guided through these pages is warmly welcomed.*
 
-You have just read a [garden-path sentence](https://en.wikipedia.org/wiki/Garden-path_sentence); you are also reading the website of someone interested in reading, eye movements, and how readers find their way through language.
+You have just read a [garden-path sentence](https://en.wikipedia.org/wiki/Garden-path_sentence). At first, this sentence may invite you to read *guided* as the main verb. Only later, when you reach *is warmly welcomed*, does it become clear that *guided through these pages* describes the visitor.
 
 I am currently an MSc Cognitive Neuroscience student at Radboud University Nijmegen. Before joining Radboud, I completed an MSc in Psycholinguistics at the University of Edinburgh, where I developed my interest in <span style="color:#2a6fbb;"><strong>eye movements in reading and sentence comprehension</strong></span>.
 
