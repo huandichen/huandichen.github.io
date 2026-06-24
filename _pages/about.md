@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: huandi.pic.jpg
+  image: huandi_pic.jpg
   image_circular: false # crops the image to make it circular
 
 ---
@@ -14,9 +14,9 @@ profile:
 
 You have just read a [garden-path sentence](https://en.wikipedia.org/wiki/Garden-path_sentence). At first, this sentence may invite you to read *guided* as the main verb. Only later, when you reach *is warmly welcomed*, does it become clear that *guided through these pages* describes the visitor (*The visitor [who is] guided through these pages is warmly welcomed.*). In other words, I am rather good at using complicated ways to express simple meanings. (In short,) <span style="color: var(--global-theme-color);"><strong>Welcome!</strong></span>
 
-**I am currently an MSc Cognitive Neuroscience student at Radboud University in Nijmegen. Before that, I completed an MSc in Psycholinguistics at the University of Edinburgh, where I developed my interest in <span style="color: var(--global-theme-color);"><strong>eye movements in reading</strong></span> and <span style="color: var(--global-theme-color);"><strong>sentence comprehension</strong></span>.**
+<strong>I am currently an MSc Cognitive Neuroscience student at Radboud University in Nijmegen. Before that, I completed an MSc in Psycholinguistics at the University of Edinburgh, where I developed my interest in <span style="color:#c218c8;">eye movements in reading</span> and <span style="color:#c218c8;">sentence comprehension</span>.</strong>
 
-**Broadly, my research interests center on <span style="color: var(--global-theme-color);"><strong>ambiguity resolution</strong></span>: basically, what strategies help people recover from uncertainty. More recently, I have also become increasingly interested in cognitive neuroscience methods, including EEG, MEG, MRI, and transcranial ultrasound stimulation.**
+<strong>Broadly, my research interests center on <span style="color:#c218c8;">ambiguity resolution</span>: basically, what strategies help people recover from uncertainty. More recently, I have also become increasingly interested in cognitive neuroscience methods, including EEG, MEG, MRI, and transcranial ultrasound stimulation.</strong>
 
 
 
