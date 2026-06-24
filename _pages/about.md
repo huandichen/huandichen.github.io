@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: huandi_pic.jpg
+  image: huandi.pic.jpg
   image_circular: false # crops the image to make it circular
 
 ---
