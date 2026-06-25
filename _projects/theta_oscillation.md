@@ -2,7 +2,6 @@
 layout: page
 title: Hippocampal theta oscillations
 description: MSc thesis project on shared and distinct neural mechanisms underlying memory and language retrieval
-img: assets/img/12.jpg
 importance: 1
 category: Ongoing
 related_publications: false
