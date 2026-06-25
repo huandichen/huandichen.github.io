@@ -2,7 +2,7 @@
 layout: page
 title: Hippocampal theta oscillations in episodic memory and word retrieval
 description: MSc thesis project on shared and distinct neural mechanisms underlying memory and language retrieval
-img: assets/img/theta1.jpg
+img: assets/img/12.jpg
 importance: 1
 category: research
 related_publications: false
