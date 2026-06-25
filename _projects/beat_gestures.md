@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beat gestures
-description: MSc Capita Selecta project on visual cues in speech perception
+description: MSc Capita Selecta project on how visual cues guide speech perception
 img: assets/img/beat_gestures1.jpg
 importance: 1
 category: Previous
