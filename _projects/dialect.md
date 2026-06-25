@@ -23,7 +23,7 @@ This project involved dialect fieldwork across five regions in Shandong Province
 
 ## Reflection
 
-
+Reflecting on this experience, I would not say that phonetic transcription by ear was my strongest skill at the beginning. Listening carefully to subtle sound differences and recording them accurately was often challenging. However, through repeated dialect fieldwork, I gradually became more aware of how speech variation is shaped not only by linguistic structure, but also by culture, geography, history, and local identity. This experience helped me understand why I became interested in language as an undergraduate student: **language is both systematic and deeply human**. It can be analysed with precision, but it also carries traces of people’s lives, communities, and ways of seeing the world.
 
 ## Project period
 
@@ -31,9 +31,10 @@ September 2020 – September 2022
 
 ## Supervision
 
-This project was conducted under the supervision of [Dr. Hans Rutger Bosker](https://www.ru.nl/en/people/bosker-h).
+This project was conducted under the supervision of [Dr. Yanfen Zhang](https://www.lit.sdu.edu.cn/info/1134/1590.htm).
 
 ## Read more
-Find more interesting demos through the lab website: [Speech Perception in Audiovisual Communication (SPEAC)](https://hrbosker.github.io/)!
 
+Get to know the [The Data Collection, Recording, and Display Platform for the Chinese Language Resources Protection Project](https://www.zhongguoyuyan.cn/index).
 
+Explore [The World Atlas of Language Structures (WALS)](https://wals.info/).
