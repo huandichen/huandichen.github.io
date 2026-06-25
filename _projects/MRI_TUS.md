@@ -10,7 +10,7 @@ related_publications: false
 
 ## Overview
 
-**The project focused on the relationship between magnetic resonance imaging (MRI) and [transcranial ultrasound stimulation (TUS)](https://dondersdiscovers.nl/en/project/focused-ultrasound-fus-initiative/).** I explored how MRI can support TUS research by contributing to anatomical targeting, physical verification, and the interpretation of stimulation effects. My activities included reading literature on MRI and TUS, writing a short report, participating in lab meetings, and attending a TUS workshop.
+**The project focused on the relationship between [magnetic resonance imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) and [transcranial ultrasound stimulation (TUS)](https://dondersdiscovers.nl/en/project/focused-ultrasound-fus-initiative/).** I explored how MRI can support TUS research by contributing to anatomical targeting, physical verification, and the interpretation of stimulation effects. My activities included reading literature on MRI and TUS, writing a short report, participating in lab meetings, and attending a TUS workshop.
 
 ## Reflection
 
