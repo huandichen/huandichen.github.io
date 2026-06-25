@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imagery and Perception
-description: Competitive interactions between external perception and internal imagery
+description: MSc lab rotation on interactions between external perception and internal imagery
 img: assets/img/12.jpg
 importance: 4
 category: Previous
