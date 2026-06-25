@@ -36,7 +36,7 @@ February 2026 – May 2026
 
 This project was conducted under the supervision of [Dr. Eric Maris](https://scholar.google.com/citations?user=YnX5NBQAAAAJ&hl=nl).
 
-## Useful links
+## Read more
 [Ageing in balance: rehabilitating older adults back for cycling](https://www.ru.nl/en/donders-institute/news/ageing-in-balance-rehabilitating-older-adults-back-for-cycling)
 
 [Sit with a Scientist: Hoe zorgen spieren voor je evenwicht?](https://www.youtube.com/watch?v=O1b-3QJRin8)
