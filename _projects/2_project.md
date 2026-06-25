@@ -1,81 +1,32 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: MRI-Guided Transcranial Ultrasound Stimulation
+description: MSc lab rotation project on 
+img: assets/img/MRI_TUS1.png
+importance: 1
+category: Previous
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+**The project focused on the relationship between magnetic resonance imaging (MRI) and [transcranial ultrasound stimulation (TUS)](https://dondersdiscovers.nl/en/project/focused-ultrasound-fus-initiative/).** I explored how MRI can support TUS research by contributing to anatomical targeting, physical verification, and the interpretation of stimulation effects. My activities included reading literature on MRI and TUS, writing a short report, participating in lab meetings, and attending a TUS workshop.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Reflection
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+This rotation was intellectually refreshing because it encouraged me to think beyond experimental questions and theoretical interpretation. In the MR Techniques Group, I saw how methodological research asks whether an idea can actually be implemented, measured, verified, and improved. Lab discussions often moved from conceptual interest to practical constraints, such as spatial resolution, timing, safety, hardware, parameters, and sources of error. This helped me develop a more **engineering-oriented mindset**. I came to appreciate that good neuroscience requires both conceptual imagination and technical precision, and that understanding how measurements are produced is essential for interpreting what they mean.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## Project period
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+June 2026
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Supervision
 
-{% raw %}
+This project was conducted under the supervision of [Prof. David Norris](https://www.ru.nl/en/people/norris-d).
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Read more
+[MAGNETOM Material: MR images of fruits, sea creatures, flowers and Tim sports images](https://www.magnetomworld.siemens-healthineers.com/magnetom-material)
+Did you find out it's a pineapple on the cover?!
 
-{% endraw %}
+[DYNAMIC 14T](https://dondersdiscovers.nl/en/project/dynamic/)
+Looking forward to the world’s first 14 Tesla MRI scanner!
