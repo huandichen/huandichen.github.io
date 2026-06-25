@@ -26,7 +26,7 @@ This project was conducted under the supervision of [Prof. David Norris](https:/
 
 ## Read more
 [MAGNETOM Material: MR images of fruits, sea creatures, flowers and Tim sports images](https://www.magnetomworld.siemens-healthineers.com/magnetom-material)
-Did you find out it's a pineapple on the cover?!
+Did you find out it's a pineapple on the cover?! (Image credit goes to [MAGNETOM World](https://www.magnetomworld.siemens-healthineers.com/))
 
 [DYNAMIC 14T](https://dondersdiscovers.nl/en/project/dynamic/)
 Looking forward to the world’s first 14 Tesla MRI scanner!
