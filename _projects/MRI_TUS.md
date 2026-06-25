@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MRI-Guided Transcranial Ultrasound Stimulation
+title: MRI-Guided TUS
 description: MSc lab rotation project on how imaging supports precise neuromodulation
 img: assets/img/MRI_TUS1.png
 importance: 1
