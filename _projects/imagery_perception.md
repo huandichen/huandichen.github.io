@@ -9,29 +9,33 @@ category: Previous
 
 ## Overview
 
-**The project focused on the relationship between [magnetic resonance imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) and [transcranial ultrasound stimulation (TUS)](https://dondersdiscovers.nl/en/project/focused-ultrasound-fus-initiative/).** I explored how MRI can support TUS research by contributing to anatomical targeting, physical verification, and the interpretation of stimulation effects. My activities included reading literature on MRI and TUS, writing a short report, participating in lab meetings, and attending a TUS workshop.
+**This project investigated how visual perception and mental imagery interact, and how this interaction may be reflected in eye movements.**
+
+Participants viewed visual stimuli, maintained information through imagery, and performed tasks related to their imagined representations while their eye movements were recorded. The broader question was whether eye movements are merely incidental motor outputs, or whether they reveal the spatial and temporal organisation of attention, perception, memory, and imagery. By examining oculomotor responses across different stages of the task, the project aimed to understand how external visual input and internally generated representations may shape where and when the eyes move.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/MRI_TUS2.png" title="MR-ARFI" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/imagery2.png" title="eye-tracker" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    MR-ARFI demonstration using a phantom setup (Image credit goes to Dr. Shota Hodono, DCCN, Radboud university).
+    Mr. Eyetracker.
 </div>
 
 ## Reflection
 
-This rotation was intellectually refreshing because it encouraged me to think beyond experimental questions and theoretical interpretation. In the MR Techniques Group, I saw how methodological research asks whether an idea can actually be implemented, measured, verified, and improved. Lab discussions often moved from conceptual interest to practical constraints, such as spatial resolution, timing, safety, hardware, parameters, and sources of error. This helped me develop a more **engineering-oriented mindset**. I came to appreciate that good neuroscience requires both conceptual imagination and technical precision, and that understanding how measurements are produced is essential for interpreting what they mean.
+This project changed the way I think about eye movements. In my previous work on reading, I mainly treated eye movements as measures of linguistic processing: regressions, fixations, and rereading patterns helped reveal how readers respond to ambiguity in sentences. In this rotation, I encountered a broader view of the eyes as part of cognition itself. Eye movements may not only reflect what people are processing, but may also support the organisation of attention, memory, and mental imagery. This made me see eye-tracking not just as a method for observing cognition from the outside, but as a window into how internal representations are actively structured in space and time.
 
 ## Project period
 
-September 2025 
+September 2025 – December 2025
 
 ## Supervision
 
-This project was conducted under the supervision of [Prof. Marius Peelen](https://www.ru.nl/en/people/peelen-m).
+This project was conducted under the supervision of [Prof. Marius Peelen](https://www.ru.nl/en/people/peelen-m) and [Dr. Maëlle Lerebourg](https://www.ru.nl/personen/lerebourg-m).
 
 ## Read more
 See more exciting studies on the lab website: [Visual Cognitive Neuroscience Lab](https://sites.google.com/site/peelenlab/)!
+
+
