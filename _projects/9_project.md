@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
+title: Imagery and Perception
+description: Competitive interactions between external perception and internal imagery
+img: assets/img/imagery1.jpg
 importance: 4
-category: fun
+category: Previous
 ---
 
 Every project has a beautiful feature showcase page.
