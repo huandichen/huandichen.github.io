@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dialect fieldwork
-description: Documenting phonetic and lexical variation across local communities in Shandong Province 
+description: BA work on documenting phonetic and lexical variation in Shandong Province, China 
 img: assets/img/dialect1.jpg
 importance: 5
 category: Previous
