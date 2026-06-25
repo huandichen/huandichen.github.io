@@ -16,12 +16,12 @@ Although the project comes from sensorimotor control rather than language resear
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/stay_upright2.png" title="Conceptual illustration of hippocampal theta activity during retrieval" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/stay_upright1.png" title="The bike" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    Conceptual illustration of hippocampal theta activity during episodic memory and word retrieval.
+    The bicycle simulator.
 </div>
 
 ## Reflection
