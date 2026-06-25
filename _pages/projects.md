@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Projects shaped by a broad curiosity about how people process uncertainty, adapt to difficulty, and make sense of information.
 nav: true
 nav_order: 3
 display_categories: [Ongoing, Previous]
