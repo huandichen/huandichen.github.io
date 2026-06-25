@@ -4,7 +4,7 @@ title: Stay upright
 description: MSc lab rotation project on bicycle balance control
 img: assets/img/stay_upright1.png
 importance: 1
-category: research
+category: Finished
 related_publications: false
 ---
 
