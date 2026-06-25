@@ -19,8 +19,7 @@ related_publications: false
 </div>
 
 <div class="caption">
-    MR-ARFI demonstration using a phantom setup 
-    (Image credit goes to Dr. Shota Hodono, Donders Centre for Cognitive Neuroimaging, Radboud university).
+    MR-ARFI demonstration using a phantom setup (Image credit goes to Dr. Shota Hodono, DCCN, Radboud university).
 </div>
 
 ## Reflection
