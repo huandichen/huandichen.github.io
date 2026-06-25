@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beat gestures
-description: MSc Capita Selecta project on visual cues in speech comprehension
+description: MSc Capita Selecta project on visual cues in speech perception
 img: assets/img/beat_gestures1.jpg
 importance: 1
 category: Previous
@@ -26,7 +26,11 @@ In spoken language comprehension, listeners often need to interpret a continuous
 
 ## Reflection
 
+This project was my second experience of going through a complete cycle of research training, from experimental design and data collection to statistical analysis and report writing. It was therefore not only a valuable project in multimodal speech perception, but also **an important step in my development as a researcher**.
 
+What I found most meaningful was that the project helped me see connections across seemingly different research topics: identifying a theoretical question, translating it into an experimental design, testing it with data, and interpreting the results carefully. This experience made me realise that, across different domains, research often shares a common structure of thinking.
+
+Because of this, the project gave me a stronger sense of confidence. It made me feel that I have the ability to investigate any question that genuinely interests me, even when the topic is initially unfamiliar. In this sense, the project strengthened both my research skills and my trust in my own curiosity.
 
 ## Project period
 
