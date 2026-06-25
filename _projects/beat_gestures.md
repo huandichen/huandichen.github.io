@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Beat gestures
+description: MSc Capita Selecta project
+img: assets/img/beat_gestures1.jpg
 importance: 1
-category: work
+category: Previous
 related_publications: true
 ---
 
