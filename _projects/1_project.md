@@ -20,7 +20,5 @@ By comparing episodic memory and word retrieval within a shared electrophysiolog
 
 ## References
 Piai, V., Anderson, K. L., Lin, J. J., Dewar, C., Parvizi, J., Dronkers, N. F., & Knight, R. T. (2016). Direct brain recordings reveal hippocampal rhythm underpinnings of language processing. *Proceedings of the National Academy of Sciences*, 113(40), 11366-11371.
+
 Westner, B. U., Luo, Y., & Piai, V. (2026). Shared and distinct oscillatory fingerprints underlying episodic memory and word retrieval. *bioRxiv*, 2026-04.
-
-
-Tulving, E., & Thomson, D. M. (1973). Encoding specificity and retrieval processes in episodic memory. *Psychological Review, 80*(5), 352–373.
