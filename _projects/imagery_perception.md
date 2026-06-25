@@ -25,7 +25,7 @@ Participants viewed visual stimuli, maintained information through imagery, and 
 
 ## Reflection
 
-This project changed the way I think about eye movements. In my previous work on reading, I mainly treated eye movements as measures of linguistic processing: regressions, fixations, and rereading patterns helped reveal how readers respond to ambiguity in sentences. In this rotation, I encountered a broader view of the eyes as part of cognition itself. Eye movements may not only reflect what people are processing, but may also support the organisation of attention, memory, and mental imagery. This made me see eye-tracking not just as a method for observing cognition from the outside, but as a window into how internal representations are actively structured in space and time.
+This project changed the way I think about eye movements. In my previous work on reading, I mainly treated eye movements as measures of linguistic processing: regressions, fixations, and rereading patterns helped reveal how readers respond to ambiguity in sentences. In this rotation, I encountered a broader view of the eyes as part of cognition itself. Eye movements may not only reflect what people are processing, but may also support the organisation of attention, memory, and mental imagery. This made me see eye-tracking not just as a method for observing cognition from the outside, but **as a window into how internal representations are actively structured in space and time**.
 
 ## Project period
 
