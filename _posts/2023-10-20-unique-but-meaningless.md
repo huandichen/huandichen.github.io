@@ -14,7 +14,7 @@ I remain very proud of it. I hope that, in the future, I will have more opportun
 <figure style="max-width: 70%; margin: 24px auto; text-align: center;">
   <img src="/assets/img/unique1.jpg" alt="unique plot" style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">
-    The plot
+    The unique but meaningless plot
   </figcaption>
 </figure>
 
