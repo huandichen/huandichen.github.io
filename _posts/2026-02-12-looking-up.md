@@ -18,6 +18,6 @@ Sometimes, I simply stop and look up. The sky feels wide, poetic, and spacious.
   </div>
 
   <p style="font-size: 0.9em; color: #666; text-align: center; margin-top: 8px;">
-    Skys in Edinburgh, Geneva, and Nijmegen.
+    Skies in Edinburgh, Geneva, and Nijmegen.
   </p>
 </div>
