@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: I am grateful to all the supervisors who recognized my potential before I could see it myself, including event-related potentials.
+description: This page traces my exploration across different areas of cognitive science, reflecting both my broad curiosity and my ongoing effort to understand how humans process, interpret, and recover from uncertainty.
 nav: true
 nav_order: 3
 display_categories: [Ongoing, Previous]
@@ -63,3 +63,5 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+**I am grateful to all the supervisors who recognized my *potential* before I could see it myself, including *event-related potentials*.**
