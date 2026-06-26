@@ -20,7 +20,7 @@ pagination:
 
 <div class="header-bar">
   <h1>Field notes</h1>
-  <h2>Observations from everyday life, research, and wandering around.</h2>
+  <h2>Observations from everyday life and wandering around.</h2>
 </div>
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
