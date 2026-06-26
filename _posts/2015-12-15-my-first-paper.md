@@ -2,8 +2,8 @@
 layout: post
 title: My first paper
 date: 2025-12-15 08:00:00
-description: 
-tags: coding
+description: Very proud!
+tags: news
 thumbnail: assets/img/myfirstpaper1.jpg
 ---
 
