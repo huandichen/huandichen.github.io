@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Projects shaped by a broad curiosity about how people process uncertainty, adapt to difficulty, and make sense of information.
+description: I am grateful to all the supervisors who saw my *potential* before I did, including *event-related potentials*.
 nav: true
 nav_order: 3
 display_categories: [Ongoing, Previous]
