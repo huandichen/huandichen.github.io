@@ -64,4 +64,7 @@ horizontal: false
 {% endif %}
 </div>
 
+
+## Acknowledgements
+
 **I am grateful to all the supervisors who recognized my *potential* before I could see it myself, including *event-related potentials*.**
