@@ -4,6 +4,7 @@ title: Looking Up
 date: 2026-02-12 14:40:00 
 description: One third of my photo album is probably made of clouds and skies
 tags: nature
+thumbnail: assets/img/sky4.jpg
 ---
 
 Whenever I arrive in a new place, I like to record its sky: at different times of the day, under different kinds of weather — although, of course, taking photos of the sky on rainy days can be rather difficult.
