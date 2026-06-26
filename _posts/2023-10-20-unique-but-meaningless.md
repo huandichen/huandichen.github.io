@@ -7,7 +7,7 @@ tags: coding
 thumbnail: assets/img/unique1.jpg
 ---
 
-When I first learned R in Edinburgh, our lecturer gave us a dataset and asked us to practise data visualization. Following examples from [The R Graph Gallery](https://r-graph-gallery.com/), I somehow spent seven hours — for reasons still unknown to science — making this plot. In the end, it received the unforgettable comment: “unique but meaningless.”
+When I first learned R in Edinburgh, our lecturer gave us a dataset and asked us to practise data visualization. Following examples from [The R Graph Gallery](https://r-graph-gallery.com/), I somehow spent seven hours making this plot. In the end, it received the unforgettable comment: “unique but meaningless.”
 
 I remain very proud of it. I hope that, in the future, I will have more opportunities to produce research that earns the same evaluation.
 
