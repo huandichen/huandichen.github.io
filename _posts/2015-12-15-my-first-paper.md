@@ -9,7 +9,9 @@ thumbnail: assets/img/myfirstpaper1.jpg
 
 [The first paper](https://doi.org/10.1037/xlm0001558) is always unforgettable. 
 
-This article grew out of my MSc dissertation at the University of Edinburgh, and I feel deeply honoured to have worked on it with my supervisor [Dr. Patrick Sturt](https://edwebprofiles.ed.ac.uk/profile/patrick-sturt) and Min-Tzu Wu. It was the project through which I first learned eye-tracking, became more confident with advanced statistical methods, and began to understand what it means to develop a research question with patience and care.
+This article grew out of my MSc dissertation at the University of Edinburgh, and I feel deeply honoured to have worked on it with my supervisor [Dr. Patrick Sturt](https://edwebprofiles.ed.ac.uk/profile/patrick-sturt) and my peer Min-Tzu Wu. It was the project through which I first learned eye-tracking, became more confident with advanced statistical methods, and began to understand what it means to develop a research question with patience and care.
+
+## Acknowledgements
 
 More than anything, this project reminds me of the support I received along the way. I would like to include here a short excerpt from the acknowledgements of my dissertation, dedicated to the best supervisor I could have hoped for.
 
