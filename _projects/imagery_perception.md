@@ -33,7 +33,7 @@ September 2025 – December 2025
 
 ## Supervision
 
-This project was conducted under the supervision of [Prof. Marius Peelen](https://www.ru.nl/en/people/peelen-m) and [Dr. Maëlle Lerebourg](https://www.ru.nl/personen/lerebourg-m).
+This project was conducted under the supervision of [Prof. Marius Peelen](https://www.ru.nl/en/people/peelen-m) and [Dr. Maëlle Lerebourg](https://www.ru.nl/personen/lerebourg-m). Cover image adapted from [Dr. Maëlle Lerebourg](https://www.ru.nl/personen/lerebourg-m).
 
 ## Read more
 See more exciting studies on the lab website: [Visual Cognitive Neuroscience Lab](https://sites.google.com/site/peelenlab/)!
