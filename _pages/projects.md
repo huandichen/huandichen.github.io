@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: I am grateful to all the supervisors who saw my *potential* before I did, including *event-related potentials*.
+description: I am grateful to all the supervisors who recognized my potential before I could see it myself, including event-related potentials.
 nav: true
 nav_order: 3
 display_categories: [Ongoing, Previous]
