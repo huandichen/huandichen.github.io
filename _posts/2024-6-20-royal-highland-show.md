@@ -20,11 +20,11 @@ thumbnail: assets/img/royal_show1.jpg
   <img
     src="/assets/img/royal_show2.jpg"
     alt="Sheep"
-    style="width: 55%; height: 320px; object-fit: cover; border-radius: 8px;"
+    style="width: 50%; height: 320px; object-fit: cover; border-radius: 8px;"
   >
   <img
     src="/assets/img/royal_show3.jpg"
     alt="Cow"
-    style="width: 41%; height: 320px; object-fit: cover; border-radius: 8px;"
+    style="width: 45%; height: 320px; object-fit: cover; border-radius: 8px;"
   >
 </div>
