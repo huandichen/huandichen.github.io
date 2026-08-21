@@ -11,7 +11,7 @@ thumbnail: assets/img/royal_show1.jpg
   I had the opportunity to attend the
   <a href="https://www.royalhighlandshow.org/" target="_blank" rel="noopener noreferrer">
     2024 Royal Highland Show
-  </a>,
+ </a>,
   where I met many adorable Highland animals and said hi to them.
   <br>
   I couldn’t help but wonder, though—did they actually see me?
