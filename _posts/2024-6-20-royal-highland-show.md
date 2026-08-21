@@ -19,13 +19,13 @@ thumbnail: assets/img/royal_show1.jpg
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; margin: 24px 0;">
   <img
-    src="/assets/img/two_cows1.jpg"
-    alt="A cow standing in the field at Botersnijdersven"
+    src="/assets/img/royal_show2.jpg"
+    alt="sheep"
     style="width: 48%; height: auto; border-radius: 8px;"
   >
   <img
-    src="/assets/img/two_cows2.jpg"
-    alt="Another cow standing nearby at Botersnijdersven"
+    src="/assets/img/royal_show3.jpg"
+    alt="cow"
     style="width: 48%; height: auto; border-radius: 8px;"
   >
 </div>
