@@ -16,10 +16,16 @@ thumbnail: assets/img/royal_show1.jpg
   I couldn’t help but wonder, though—did they actually see me?
 </p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 24px 0;">
-  <img src="/assets/img/royal_show2.jpg" alt="Sheep"
-       style="width: min(100%, 480px); height: auto; border-radius: 8px;">
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; margin: 24px 0;">
+  <img
+    src="/assets/img/royal_show2.jpg"
+    alt="sheep"
+    style="width: 48%; height: auto; border-radius: 8px;"
+  >
 
-  <img src="/assets/img/royal_show3.jpg" alt="Cow"
-       style="width: min(100%, 480px); height: auto; border-radius: 8px;">
+  <img
+    src="/assets/img/royal_show3.jpg"
+    alt="cow"
+    style="width: 48%; height: auto; border-radius: 8px;"
+  >
 </div>
