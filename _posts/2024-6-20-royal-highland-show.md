@@ -23,9 +23,9 @@ thumbnail: assets/img/royal_show1.jpg
     style="width: 48%; height: auto; border-radius: 8px;"
   >
 
+ <div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; margin: 24px 0;">
   <img
     src="/assets/img/royal_show3.jpg"
     alt="cow"
     style="width: 48%; height: auto; border-radius: 8px;"
   >
-</div>
