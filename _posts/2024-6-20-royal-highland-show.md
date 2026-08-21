@@ -12,19 +12,20 @@ thumbnail: assets/img/royal_show1.jpg
   <a href="https://www.royalhighlandshow.org/" target="_blank" rel="noopener noreferrer">
     2024 Royal Highland Show
   </a>,
-  where I met many adorable Highland animals and stopped to say hello.
+  where I met many adorable Highland animals and said hi to them.
+  <br>
   I couldn’t help but wonder, though—did they actually see me?
 </p>
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; margin: 24px 0;">
   <img
-    src="/assets/img/royal_show2.jpg"
-    alt="Sheep"
-    style="width: 50%; height: 320px; object-fit: cover; border-radius: 8px;"
+    src="/assets/img/two_cows1.jpg"
+    alt="A cow standing in the field at Botersnijdersven"
+    style="width: 48%; height: auto; border-radius: 8px;"
   >
   <img
-    src="/assets/img/royal_show3.jpg"
-    alt="Cow"
-    style="width: 45%; height: 320px; object-fit: cover; border-radius: 8px;"
+    src="/assets/img/two_cows2.jpg"
+    alt="Another cow standing nearby at Botersnijdersven"
+    style="width: 48%; height: auto; border-radius: 8px;"
   >
 </div>
