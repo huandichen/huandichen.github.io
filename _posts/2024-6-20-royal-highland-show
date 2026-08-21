@@ -17,9 +17,9 @@ thumbnail: assets/img/royal_show1.jpg
 </p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 24px 0;">
-  <img src="/assets/img/royal_show1.jpg" alt="Sheep"
+  <img src="/assets/img/royal_show2.jpg" alt="Sheep"
        style="width: min(100%, 480px); height: auto; border-radius: 8px;">
 
-  <img src="/assets/img/royal_show1.jpg" alt="Cow"
+  <img src="/assets/img/royal_show3.jpg" alt="Cow"
        style="width: min(100%, 480px); height: auto; border-radius: 8px;">
 </div>
