@@ -3,7 +3,7 @@ layout: page
 title: Dialect fieldwork
 description: BA work on documenting phonetic and lexical variation in Shandong Province, China 
 img: assets/img/dialect1.jpg
-importance: 5
+importance: 6
 category: Previous
 related_publications: false
 ---
