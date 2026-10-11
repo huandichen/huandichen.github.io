@@ -34,7 +34,7 @@ Because of this, the project gave me a stronger sense of confidence. It made me 
 
 ## Project period
 
-December 2025 – May 2026
+January 2026 – May 2026
 
 ## Supervision
 
