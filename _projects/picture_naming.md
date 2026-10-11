@@ -3,7 +3,7 @@ layout: page
 title: Picture naming
 description: BA Thesis on picture naming test of the Elderly in Shanghai
 img: assets/img/picture_naming1.jpg
-importance: 2
+importance: 5
 category: Previous
 related_publications: false
 ---
