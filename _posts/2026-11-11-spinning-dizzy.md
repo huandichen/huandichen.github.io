@@ -22,4 +22,4 @@ The experience was new and exciting. A hackathon offers space to experiment with
 
 It also prompted me to reflect on **scientific integrity**. The fast pace creates valuable opportunities for learning, but leaves limited time to validate every step, including checking that the code works as intended. As I continue my academic journey, I hope to carry this curiosity forward alongside a **commitment to rigor**: questioning assumptions, checking what seems uncertain, and being transparent about limitations.
 
-I am grateful that this first hackathon helped me clarify **the standards I want to uphold as a researcher**.
+I am grateful that this hackathon helped me clarify **the standards I want to uphold as a researcher**.
