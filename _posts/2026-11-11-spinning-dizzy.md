@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spinning Dizzy
-date: 2026-11-11 11:52:00
+date: 2026-11-11 12:02:10
 description: NeurotechEU Hackathon Wearable Neurotechnology: fNIRS and EEG
 tags: news
 thumbnail: assets/img/hackathon1.jpg
