@@ -10,7 +10,7 @@ thumbnail: assets/img/hackathon1.jpg
 This was my first hackathon. In just three and a half days, our international team explored how vestibular perturbation affects self-motion perception and how it might inform clinical vestibular assessment. We had the opportunity to investigate this question using a very cool vestibular chair combined with functional near-infrared spectroscopy (fNIRS).
 
 <figure style="max-width: 70%; margin: 24px auto; text-align: center;">
-  <img src="/assets/img/hackathon2.jpg" alt="unique plot" style="width: 100%; height: auto; border-radius: 8px;">
+  <img src="/assets/img/hackathon2.jpg" alt="hackathon plot" style="width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">
     Group presentation in the NeurotechEU General Assembly (Nijmegen, the Netherlands)
   </figcaption>
