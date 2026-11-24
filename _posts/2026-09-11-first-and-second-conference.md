@@ -4,7 +4,7 @@ title: My First and Second Conference
 date: 2026-09-11 09:30:00
 description: Meeting the People Behind the References
 tags: news
-thumbnail: assets/img/conference1.jpg
+thumbnail: assets/img/conference1.png
 ---
 
 First experiences can be nerve-racking but memorable, much like first-pass reading.
