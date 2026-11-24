@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First and Second Conference
+title: My First and Second Conferences
 date: 2026-09-11 09:30:00
 description: Meeting the people behind the references 😀
 tags: news
