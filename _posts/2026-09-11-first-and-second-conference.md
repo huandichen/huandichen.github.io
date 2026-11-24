@@ -2,7 +2,7 @@
 layout: post
 title: My First and Second Conference
 date: 2026-09-11 09:30:00
-description: Meeting the People Behind the References
+description: Meeting the people behind the references 😀
 tags: news
 thumbnail: assets/img/conference1.png
 ---
