@@ -13,28 +13,25 @@ At my first two academic conferences, I gathered the courage to speak with resea
 
 If I am fortunate enough to become an established researcher like them one day, I hope I can also offer younger students the same patience, openness, and encouragement, and inspire the same enthusiasm for research that these scholars sparked in me.
 
-<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start; margin: 24px 0;">
-
-  <figure style="width: 48%; margin: 0; text-align: center;">
+<div style="display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); gap: 20px; align-items: start; margin: 24px 0;">
+  <div style="min-width: 0; text-align: center;">
     <img
       src="/assets/img/conference2.jpg"
       alt="Talk at ECEM2026"
-      style="width: 100%; height: auto; border-radius: 8px;"
+      style="display: block; width: 100%; height: auto; border-radius: 8px;"
     >
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">
+    <p style="font-size: 0.9em; color: #666; margin: 8px 0 0;">
       Talk at ECEM2026
-    </figcaption>
-  </figure>
-
-  <figure style="width: 40%; margin: 0; text-align: center;">
+    </p>
+  </div>
+  <div style="min-width: 0; text-align: center;">
     <img
       src="/assets/img/conference3.jpg"
       alt="Poster at MMSYM2026"
-      style="width: 100%; height: auto; border-radius: 8px;"
+      style="display: block; width: 100%; height: auto; border-radius: 8px;"
     >
-    <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">
+    <p style="font-size: 0.9em; color: #666; margin: 8px 0 0;">
       Poster presentation at MMSYM2026
-    </figcaption>
-  </figure>
-
+    </p>
+  </div>
 </div>
