@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first paper
+title: My First Paper
 date: 2025-12-15 08:00:00
 description: Very proud!
 tags: news
