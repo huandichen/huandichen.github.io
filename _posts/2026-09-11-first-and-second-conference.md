@@ -7,7 +7,7 @@ tags: news
 thumbnail: assets/img/conference1.png
 ---
 
-First experiences can be nervous but memorable, much like first-pass reading.
+First experiences can be nervous but memorable, much like *first-pass reading*.
 
 This September, I attended [23rd European Conference on Eye Movements (ECEM 2026)](https://www.uni-ulm.de/in/ecem2026/) in Ulm, Germany and [Symposium Series on Multimodal Communication (MMSYM 2026)](https://mmsym.org/) in Leuven, Belgium.
 
