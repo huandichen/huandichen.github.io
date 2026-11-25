@@ -7,7 +7,7 @@ tags: news
 thumbnail: assets/img/hackathon1.jpg
 ---
 
-This was my first hackathon. In just three and a half days, our international team named *Spinning Dizzy* explored **how vestibular perturbation affects self-motion perception and how it might inform clinical vestibular assessment**. We had the opportunity to investigate this question using a very cool vestibular chair combined with functional near-infrared spectroscopy (fNIRS).
+This was my first hackathon. In just five days, our international team named *Spinning Dizzy* explored **how vestibular perturbation affects self-motion perception and how it might inform clinical vestibular assessment**. We had the opportunity to investigate this question using a very cool vestibular chair combined with functional near-infrared spectroscopy (fNIRS).
 
 <figure style="max-width: 70%; margin: 24px auto; text-align: center;">
   <img src="/assets/img/hackathon2.jpg" alt="hackathon plot" style="width: 100%; height: auto; border-radius: 8px;">
